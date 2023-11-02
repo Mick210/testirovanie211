@@ -18,7 +18,7 @@ public class UniversityTest {
 
     @BeforeEach
     public void setUp() {
-        Student student1 = new Student("John", 35, true);
+        student1 = new Student("John", 35, true);
         student2 = new Student("Kristina", 31, false);
         student3 = new Student("Valja", 33, false);
 
